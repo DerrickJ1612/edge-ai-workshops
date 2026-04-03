@@ -4,7 +4,7 @@
 
 Fine-tune a language model using Low-Rank Adaptation (LoRA) to produce structured, reliable outputs.
 
-This workshop walks through the full alignment workflow — from dataset preparation to training and evaluation — all in a single, reproducible Colab notebook.
+This workshop walks through the full alignment workflow from dataset preparation to training and evaluation. All in a single, reproducible Colab notebook.
 
 ---
 
