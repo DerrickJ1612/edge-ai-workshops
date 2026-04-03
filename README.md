@@ -45,9 +45,7 @@ https://github.com/DerrickJ1612/model-alignment-lab
 ---
 
 ## Getting Started
-
-The easiest way to run a workshop is through Google Colab.
-
+Follow the steps below
 1. Click the **Open in Colab** link for a workshop  
 2. Run the setup cell at the top of the notebook  
 3. Execute cells sequentially  
