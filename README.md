@@ -68,10 +68,12 @@ No local setup required.
 
 ## Repository Structure
 
+```text
 ai-workshops/
 ├── README.md
-├── workshops/
-│ └── model-alignment-lora/
-│ ├── README.md
-│ └── colab-model-alignment-lab.ipynb
+└── workshops/
+    └── model-alignment-lora/
+        ├── README.md
+        └── colab-model-alignment-lab.ipynb
+```
 
