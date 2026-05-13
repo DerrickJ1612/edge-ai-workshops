@@ -30,7 +30,11 @@ Workshops typically follow this structure:
 
 ### LoRA Alignment Lab
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DerrickJ1612/edge-ai-workshops/blob/main/workshops/lora-alignment/colab_model_alignment_lab.ipynb)
+| Task | Notebook |
+|---|---|
+| Travel Agent | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DerrickJ1612/edge-ai-workshops/blob/main/workshops/lora-alignment/colab_model_alignment_lab.ipynb) |
+| Personal Academic Tutor | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DerrickJ1612/edge-ai-workshops/blob/main/workshops/lora-alignment/colab_model_alignment_em_tutor_lab.ipynb) |
+
 
 Fine-tune a language model using Low-Rank Adaptation (LoRA) for structured outputs and improved behavior.
 
