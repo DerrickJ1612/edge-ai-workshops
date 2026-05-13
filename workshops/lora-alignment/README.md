@@ -83,10 +83,23 @@ LoRA reduces the number of trainable parameters by decomposing weight updates in
 - Train smaller matrices (rank *r*)  
 - Reconstruct updates during inference  
 
-This enables:
+Benefits:
 - Faster training  
 - Lower memory usage  
-- Efficient deployment  
+- Parameter-efficient finetuning
+
+---
+
+### Weight-Decomposed LoRA (DoRA)
+
+DoRA extends LoRA by separating weights into:
+- Magnitude
+- Direction
+
+Benefits:
+- Improved stability at low ranks
+- Better learning capacity
+- Closer approximation to full finetuning
 
 ---
 
